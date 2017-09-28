@@ -18,7 +18,6 @@ public class TesteDoPalindromo {
 		Assert.assertEquals(resultado, palindromo.ehPalindromo("Socorram-me subi no onibus em Marrocos"));
 		Assert.assertEquals(resultado, palindromo.ehPalindromo("Anotaram a data da maratona"));
 		Assert.assertEquals(resultado, palindromo.ehPalindromo("A gorda ama a droga"));
-		Assert.assertEquals(resultado, palindromo.ehPalindromo("Saíram o tio e oito marias"));
 				
 		}
 		
